@@ -52,4 +52,4 @@
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/KadyrovErjan/KadyrovErjan/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ulanbek60/Ulanbek60/blob/output/github-contribution-grid-snake.svg)
