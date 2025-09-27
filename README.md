@@ -25,6 +25,12 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://t.me/ulanbek_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
+
 ---
 
 ### 🧰 Languages and Tools:
