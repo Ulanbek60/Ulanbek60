@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ulanbek</h1>
-<h3 align="center">💻 A passionate Backend Developer from Kyrgyzstan</h3>
+<h3 align="center">💻 A passionate ML engineer from Kyrgyzstan</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
